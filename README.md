@@ -1,6 +1,6 @@
 # Smart-Automotive-Order-Management-System
 
-$ Project Overview
+# Project Overview
 
 The Smart Automotive Order Management System is a Salesforce CRM-based solution designed to enhance customer experience and operational efficiency in the automotive sector.
 The system integrates vehicle inventory, dealer management, customer data, and automated order processing to create a unified and intelligent platform.
